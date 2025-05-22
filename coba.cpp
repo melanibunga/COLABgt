@@ -5,6 +5,8 @@ int main(){
     cout << "ini devita";
 
     cout << "TAMBAHAN KE DUA";
+
+    cout << "tambahan 3";
 }
 
 // 2
