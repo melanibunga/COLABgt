@@ -5,3 +5,5 @@ int main(){
 
     cout << "TAMBAHAN KE DUA";
 }
+
+// 2
